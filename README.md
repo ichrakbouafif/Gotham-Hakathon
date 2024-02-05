@@ -12,4 +12,4 @@ Our website functionalities
 Tools and technologies
 HTML,CSS -JS, JQuery
 Laravel 10 -bootstarp -Vs Code -Git / GitHub
-live demo https://drive.google.com/file/d/1rU_hURCUT6MlZwLR5lC8g_2QOqUfuqGo/view?usp=sharing
+live demo https://drive.google.com/file/d/1uzuuAM5yFJ_UR-8u9TKLh3lLNWT-XrSy/view?usp=sharing
